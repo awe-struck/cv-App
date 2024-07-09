@@ -1,0 +1,21 @@
+.education-segment {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 12px;
+  }
+  
+
+  
+  .school, .schoolLocation {
+    font-weight: bold;
+  }
+
+  .degree{
+    font-style: italic;
+  }
+
+  .schoolLocation {
+    text-align: right;
+ 
+  }

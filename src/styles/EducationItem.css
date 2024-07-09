@@ -1,0 +1,19 @@
+.educationSection h2 {
+    text-align: center;
+}
+
+.educationItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.educationInputs {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+}
+
+

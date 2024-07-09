@@ -1,0 +1,19 @@
+.experienceItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.experienceInputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+button {
+    width: 100%;
+}
+
+
+

@@ -1,0 +1,15 @@
+.educationSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.educationForm {
+
+}
+
+h2 {
+    text-align: center;
+}
+

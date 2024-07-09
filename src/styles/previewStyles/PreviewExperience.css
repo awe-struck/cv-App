@@ -1,0 +1,25 @@
+.experience-segment {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 12px;
+  }
+  
+  .company, .date{
+    font-weight: bold;
+  }
+  
+  .date {
+    text-align: right;
+    font-size: 12px;
+  }
+  
+  .jobTitle {
+    font-style: italic;
+    margin-top: 5px;
+  }
+  
+  .roles {
+    margin-top: 5px;
+    font-size: 12px;
+  }

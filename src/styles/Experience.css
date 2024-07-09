@@ -1,0 +1,12 @@
+.experienceSection {
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+h2 {
+    text-align: center;
+}
+
